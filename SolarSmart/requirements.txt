@@ -1,0 +1,6 @@
+streamlit>=1.35,<2.0
+pandapower>=3.2,<4.0
+numpy>=1.26,<3.0
+pandas>=2.0,<3.0
+plotly>=5.20,<7.0
+numpy-financial>=1.0
